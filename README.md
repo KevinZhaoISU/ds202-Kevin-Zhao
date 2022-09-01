@@ -1,4 +1,3 @@
 # ds202-Kevin-Zhao
-ode to an academic advisor
-
-I am testing out the read me.
+a happy: accepting a full-time job offer
+a crappy: still having two semesters of classes to take
